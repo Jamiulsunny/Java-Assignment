@@ -3,9 +3,10 @@ import java.util.Scanner;
 public class EvenOdd {
     public static void main (String[]args){
 
-        Scanner input = new Scanner (System.in);   
+        Scanner input = new Scanner (System.in); 
+        int num;
         System.out.println ("Enter any positive integer: ");
-        num = input.nextInt();
+        int num = input.nextInt();
         if (num%2==0) {
             System.out.println ("The number is even");
         }
