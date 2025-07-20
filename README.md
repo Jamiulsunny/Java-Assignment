@@ -12,4 +12,4 @@ Assingment projects are:
            4.Factorial - 5
            5.Fibonacci
  *Golden batch number    
-# Author: Md.Jamiul Islam Sunny
+# Solved by: Md.Jamiul Islam Sunny
