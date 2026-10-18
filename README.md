@@ -11,5 +11,5 @@ Assingment projects are:
            3.print sum of numbers  1 to 100 
            4.Factorial - 5
            5.Fibonacci
- *Golden batch number    
+ *Golden batch number .........  
 # Solved by: Md. Jamiul Islam Sunny
